@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "242",
+    "name": "Fiji",
+    "gdp": 3106,
+    "life": 70.1,
+    "renewable": 61.3,
+    "internet": 44.7
+  },
+  {
+    "id": "834",
+    "name": "Tanzania",
+    "gdp": 84304,
+    "life": 80.9,
+    "renewable": 52.9,
+    "internet": 63.3
+  },
+  {
+    "id": "732",
+    "name": "W. Sahara",
+    "gdp": null,
+    "life": null,
+    "renewable": null,
+    "internet": null
+  },
+  {
+    "id": "124",
+    "name": "Canada",
+    "gdp": 20078,
+    "life": 76.4,
+    "renewable": 25.3,
+    "internet": 41
+  },
+  {
+    "id": "840",
+    "name": "United States of America",
+    "gdp": 15202,
+    "life": 84.2,
+    "renewable": 74.6,
+    "internet": 63.5
+  },
+  {
+    "id": "398",
+    "name": "Kazakhstan",
+    "gdp": 9067,
+    "life": 64.3,
+    "renewable": 39.2,
+    "internet": 49.6
+  },
+  {
+    "id": "860",
+    "name": "Uzbekistan",
+    "gdp": 4759,
+    "life": 74.7,
+    "renewable": 49.2,
+    "internet": 64.1
+  },
+  {
+    "id": "598",
+    "name": "Papua New Guinea",
+    "gdp": 19476,
+    "life": 62.5,
+    "renewable": 78.8,
+    "internet": 55.9
+  },
+  {
+    "id": "360",
+    "name": "Indonesia",
+    "gdp": 85816,
+    "life": 63.7,
+    "renewable": 97.4,
+    "internet": 48.4
+  },
+  {
+    "id": "032",
+    "name": "Argentina",
+    "gdp": 2100,
+    "life": 76.6,
+    "renewable": 83.5,
+    "internet": 38.1
+  },
+  {
+    "id": "152",
+    "name": "Chile",
+    "gdp": 985,
+    "life": 81.8,
+    "renewable": 28.8,
+    "internet": 41.9
+  },
+  {
+    "id": "180",
+    "name": "Dem. Rep. Congo",
+    "gdp": 28545,
+    "life": 56.1,
+    "renewable": 32.4,
+    "internet": 42.8
+  },
+  {
+    "id": "706",
+    "name": "Somalia",
+    "gdp": 5978,
+    "life": 60.9,
+    "renewable": 78.5,
+    "internet": 59.3
+  },
+  {
+    "id": "404",
+    "name": "Kenya",
+    "gdp": 83692,
+    "life": 67.7,
+    "renewable": 61,
+    "internet": 49.8
+  },
+  {
+    "id": "729",
+    "name": "Sudan",
+    "gdp": 10417,
+    "life": 84.1,
+    "renewable": 64,
+    "internet": 60
+  },
+  {
+    "id": "148",
+    "name": "Chad",
+    "gdp": 41661,
+    "life": 58.8,
+    "renewable": 14.3,
+    "internet": 41.8
+  },
+  {
+    "id": "332",
+    "name": "Haiti",
+    "gdp": 9849,
+    "life": 58.4,
+    "renewable": 93.8,
+    "internet": 47.5
+  },
+  {
+    "id": "214",
+    "name": "Dominican Rep.",
+    "gdp": 39648,
+    "life": 64.8,
+    "renewable": 57.8,
+    "internet": 43.8
+  },
+  {
+    "id": "643",
+    "name": "Russia",
+    "gdp": 28054,
+    "life": 56.7,
+    "renewable": 46,
+    "internet": 57.3
+  },
+  {
+    "id": "044",
+    "name": "Bahamas",
+    "gdp": 4274,
+    "life": 83.3,
+    "renewable": 29.1,
+    "internet": 38.5
+  },
+  {
+    "id": "238",
+    "name": "Falkland Is.",
+    "gdp": 71083,
+    "life": 78.2,
+    "renewable": 46.8,
+    "internet": 44.6
+  },
+  {
+    "id": "578",
+    "name": "Norway",
+    "gdp": 42057,
+    "life": 72,
+    "renewable": 6.2,
+    "internet": 55.3
+  },
+  {
+    "id": "304",
+    "name": "Greenland",
+    "gdp": null,
+    "life": null,
+    "renewable": null,
+    "internet": null
+  },
+  {
+    "id": "260",
+    "name": "Fr. S. Antarctic Lands",
+    "gdp": null,
+    "life": null,
+    "renewable": null,
+    "internet": null
+  },
+  {
+    "id": "626",
+    "name": "Timor-Leste",
+    "gdp": 965,
+    "life": 67.9,
+    "renewable": 82.3,
+    "internet": 56.8
+  },
+  {
+    "id": "710",
+    "name": "South Africa",
+    "gdp": 6370,
+    "life": 65.4,
+    "renewable": 12.8,
+    "internet": 74.7
+  },
+  {
+    "id": "426",
+    "name": "Lesotho",
+    "gdp": 82642,
+    "life": 69.7,
+    "renewable": 42.8,
+    "internet": 50.5
+  },
+  {
+    "id": "484",
+    "name": "Mexico",
+    "gdp": 2067,
+    "life": 60.8,
+    "renewable": 57.2,
+    "internet": 52.3
+  },
+  {
+    "id": "858",
+    "name": "Uruguay",
+    "gdp": 1172,
+    "life": 63.3,
+    "renewable": 41.9,
+    "internet": 64.1
+  },
+  {
+    "id": "076",
+    "name": "Brazil",
+    "gdp": 1950,
+    "life": 80.6,
+    "renewable": 47.1,
+    "internet": 39.5
+  },
+  {
+    "id": "068",
+    "name": "Bolivia",
+    "gdp": 13430,
+    "life": 65.8,
+    "renewable": 18.1,
+    "internet": 39.3
+  },
+  {
+    "id": "604",
+    "name": "Peru",
+    "gdp": 979,
+    "life": 65.9,
+    "renewable": 2.5,
+    "internet": 56.1
+  },
+  {
+    "id": "170",
+    "name": "Colombia",
+    "gdp": 40983,
+    "life": 60.8,
+    "renewable": 94.1,
+    "internet": 42.5
+  },
+  {
+    "id": "591",
+    "name": "Panama",
+    "gdp": 75032,
+    "life": 68.9,
+    "renewable": 53.4,
+    "internet": 55.7
+  },
+  {
+    "id": "188",
+    "name": "Costa Rica",
+    "gdp": 6651,
+    "life": 70.9,
+    "renewable": 61.4,
+    "internet": 43
+  },
+  {
+    "id": "558",
+    "name": "Nicaragua",
+    "gdp": 76517,
+    "life": 81.5,
+    "renewable": 31.7,
+    "internet": 54.6
+  },
+  {
+    "id": "340",
+    "name": "Honduras",
+    "gdp": 1293,
+    "life": 73.2,
+    "renewable": 24.8,
+    "internet": 47.8
+  },
+  {
+    "id": "222",
+    "name": "El Salvador",
+    "gdp": 11251,
+    "life": 79.6,
+    "renewable": 86.8,
+    "internet": 44.1
+  },
+  {
+    "id": "320",
+    "name": "Guatemala",
+    "gdp": 5505,
+    "life": 82.7,
+    "renewable": 50.3,
+    "internet": 47.2
+  },
+  {
+    "id": "084",
+    "name": "Belize",
+    "gdp": 77941,
+    "life": 64.4,
+    "renewable": 76.2,
+    "internet": 39.8
+  },
+  {
+    "id": "862",
+    "name": "Venezuela",
+    "gdp": 14847,
+    "life": 55.2,
+    "renewable": 56.4,
+    "internet": 64.2
+  },
+  {
+    "id": "328",
+    "name": "Guyana",
+    "gdp": 911,
+    "life": 66.5,
+    "renewable": 79.3,
+    "internet": 47.4
+  },
+  {
+    "id": "740",
+    "name": "Suriname",
+    "gdp": 10278,
+    "life": 69.6,
+    "renewable": 5.9,
+    "internet": 60.4
+  },
+  {
+    "id": "250",
+    "name": "France",
+    "gdp": 91271,
+    "life": 84.9,
+    "renewable": 90.4,
+    "internet": 45
+  },
+  {
+    "id": "218",
+    "name": "Ecuador",
+    "gdp": 947,
+    "life": 56.7,
+    "renewable": 72.3,
+    "internet": 44
+  },
+  {
+    "id": "630",
+    "name": "Puerto Rico",
+    "gdp": 11721,
+    "life": 59.8,
+    "renewable": 96.8,
+    "internet": 56.9
+  },
+  {
+    "id": "388",
+    "name": "Jamaica",
+    "gdp": 15353,
+    "life": 69.1,
+    "renewable": 3,
+    "internet": 49.3
+  },
+  {
+    "id": "192",
+    "name": "Cuba",
+    "gdp": 40312,
+    "life": 62.8,
+    "renewable": 76,
+    "internet": 43.1
+  },
+  {
+    "id": "716",
+    "name": "Zimbabwe",
+    "gdp": 2949,
+    "life": 56.2,
+    "renewable": 16.8,
+    "internet": 59.6
+  },
+  {
+    "id": "072",
+    "name": "Botswana",
+    "gdp": 59730,
+    "life": 57.7,
+    "renewable": 32.6,
+    "internet": 39.4
+  },
+  {
+    "id": "516",
+    "name": "Namibia",
+    "gdp": 1052,
+    "life": 58,
+    "renewable": 75.3,
+    "internet": 53.3
+  },
+  {
+    "id": "686",
+    "name": "Senegal",
+    "gdp": 17842,
+    "life": 70.4,
+    "renewable": 6,
+    "internet": 58.7
+  },
+  {
+    "id": "466",
+    "name": "Mali",
+    "gdp": 22102,
+    "life": 81.7,
+    "renewable": 89.9,
+    "internet": 51.8
+  },
+  {
+    "id": "478",
+    "name": "Mauritania",
+    "gdp": 32215,
+    "life": 57.4,
+    "renewable": 35.4,
+    "internet": 52.1
+  },
+  {
+    "id": "204",
+    "name": "Benin",
+    "gdp": 54743,
+    "life": 69.5,
+    "renewable": 21.5,
+    "internet": 43.5
+  },
+  {
+    "id": "562",
+    "name": "Niger",
+    "gdp": 3794,
+    "life": 73.4,
+    "renewable": 46.2,
+    "internet": 54.8
+  },
+  {
+    "id": "566",
+    "name": "Nigeria",
+    "gdp": 29951,
+    "life": 65.3,
+    "renewable": 60.7,
+    "internet": 54.9
+  },
+  {
+    "id": "120",
+    "name": "Cameroon",
+    "gdp": 1813,
+    "life": 84.5,
+    "renewable": 10.8,
+    "internet": 40.9
+  },
+  {
+    "id": "768",
+    "name": "Togo",
+    "gdp": 87517,
+    "life": 74.9,
+    "renewable": 9.5,
+    "internet": 61.2
+  },
+  {
+    "id": "288",
+    "name": "Ghana",
+    "gdp": 10395,
+    "life": 54.5,
+    "renewable": 32.2,
+    "internet": 46.2
+  },
+  {
+    "id": "384",
+    "name": "Côte d'Ivoire",
+    "gdp": 1219,
+    "life": 77.2,
+    "renewable": 86.5,
+    "internet": 49.2
+  },
+  {
+    "id": "324",
+    "name": "Guinea",
+    "gdp": 36433,
+    "life": 74.6,
+    "renewable": 64.8,
+    "internet": 47.3
+  },
+  {
+    "id": "624",
+    "name": "Guinea-Bissau",
+    "gdp": 73564,
+    "life": 56.4,
+    "renewable": 75.1,
+    "internet": 56.7
+  },
+  {
+    "id": "430",
+    "name": "Liberia",
+    "gdp": 4667,
+    "life": 61.6,
+    "renewable": 57.3,
+    "internet": 50.6
+  },
+  {
+    "id": "694",
+    "name": "Sierra Leone",
+    "gdp": 3059,
+    "life": 54.2,
+    "renewable": 35,
+    "internet": 58.9
+  },
+  {
+    "id": "854",
+    "name": "Burkina Faso",
+    "gdp": 47455,
+    "life": 71.4,
+    "renewable": 27.4,
+    "internet": 63.9
+  },
+  {
+    "id": "140",
+    "name": "Central African Rep.",
+    "gdp": 96936,
+    "life": 75,
+    "renewable": 83.3,
+    "internet": 41.5
+  },
+  {
+    "id": "178",
+    "name": "Congo",
+    "gdp": 11848,
+    "life": 75.6,
+    "renewable": 25.2,
+    "internet": 42.7
+  },
+  {
+    "id": "266",
+    "name": "Gabon",
+    "gdp": 10675,
+    "life": 83.5,
+    "renewable": 50.4,
+    "internet": 45.5
+  },
+  {
+    "id": "226",
+    "name": "Eq. Guinea",
+    "gdp": 53939,
+    "life": 71.5,
+    "renewable": 3.3,
+    "internet": 44.2
+  },
+  {
+    "id": "894",
+    "name": "Zambia",
+    "gdp": 8468,
+    "life": 83.4,
+    "renewable": 74.5,
+    "internet": 65.2
+  },
+  {
+    "id": "454",
+    "name": "Malawi",
+    "gdp": 14298,
+    "life": 75,
+    "renewable": 46.4,
+    "internet": 51.4
+  },
+  {
+    "id": "508",
+    "name": "Mozambique",
+    "gdp": 7860,
+    "life": 74.2,
+    "renewable": 46.3,
+    "internet": 53.1
+  },
+  {
+    "id": "748",
+    "name": "eSwatini",
+    "gdp": 1358,
+    "life": 84.4,
+    "renewable": 34.9,
+    "internet": 60.6
+  },
+  {
+    "id": "024",
+    "name": "Angola",
+    "gdp": 14100,
+    "life": 61.8,
+    "renewable": 54.5,
+    "internet": 37.9
+  },
+  {
+    "id": "108",
+    "name": "Burundi",
+    "gdp": 1019,
+    "life": 77.8,
+    "renewable": 65.2,
+    "internet": 40.5
+  },
+  {
+    "id": "376",
+    "name": "Israel",
+    "gdp": 9323,
+    "life": 62.4,
+    "renewable": 57.4,
+    "internet": 48.9
+  },
+  {
+    "id": "422",
+    "name": "Lebanon",
+    "gdp": 23025,
+    "life": 77.8,
+    "renewable": 28.3,
+    "internet": 50.4
+  },
+  {
+    "id": "450",
+    "name": "Madagascar",
+    "gdp": 1126,
+    "life": 83.1,
+    "renewable": 31.9,
+    "internet": 51.2
+  },
+  {
+    "id": "275",
+    "name": "Palestine",
+    "gdp": 2940,
+    "life": 57.5,
+    "renewable": 83,
+    "internet": 45.8
+  },
+  {
+    "id": "270",
+    "name": "Gambia",
+    "gdp": 52351,
+    "life": 75.4,
+    "renewable": 64.9,
+    "internet": 45.6
+  },
+  {
+    "id": "788",
+    "name": "Tunisia",
+    "gdp": 49705,
+    "life": 65.5,
+    "renewable": 82,
+    "internet": 61.9
+  },
+  {
+    "id": "012",
+    "name": "Algeria",
+    "gdp": 8430,
+    "life": 55.1,
+    "renewable": 11,
+    "internet": 37.5
+  },
+  {
+    "id": "400",
+    "name": "Jordan",
+    "gdp": 23496,
+    "life": 75.8,
+    "renewable": 46.5,
+    "internet": 49.7
+  },
+  {
+    "id": "784",
+    "name": "United Arab Emirates",
+    "gdp": 9737,
+    "life": 73.6,
+    "renewable": 67.5,
+    "internet": 61.7
+  },
+  {
+    "id": "634",
+    "name": "Qatar",
+    "gdp": 55213,
+    "life": 82.7,
+    "renewable": 13.4,
+    "internet": 57
+  },
+  {
+    "id": "414",
+    "name": "Kuwait",
+    "gdp": 63721,
+    "life": 63,
+    "renewable": 97.3,
+    "internet": 50.1
+  },
+  {
+    "id": "368",
+    "name": "Iraq",
+    "gdp": 35194,
+    "life": 78.6,
+    "renewable": 28.4,
+    "internet": 48.7
+  },
+  {
+    "id": "512",
+    "name": "Oman",
+    "gdp": 44144,
+    "life": 66.1,
+    "renewable": 60.8,
+    "internet": 53.2
+  },
+  {
+    "id": "548",
+    "name": "Vanuatu",
+    "gdp": 98770,
+    "life": 55.2,
+    "renewable": 93.4,
+    "internet": 54.3
+  },
+  {
+    "id": "116",
+    "name": "Cambodia",
+    "gdp": 58038,
+    "life": 61.6,
+    "renewable": 94.3,
+    "internet": 40.8
+  },
+  {
+    "id": "764",
+    "name": "Thailand",
+    "gdp": 25232,
+    "life": 83,
+    "renewable": 92.9,
+    "internet": 61.1
+  },
+  {
+    "id": "418",
+    "name": "Laos",
+    "gdp": 2311,
+    "life": 54.9,
+    "renewable": 13.8,
+    "internet": 50.2
+  },
+  {
+    "id": "104",
+    "name": "Myanmar",
+    "gdp": 43037,
+    "life": 54.9,
+    "renewable": 50.7,
+    "internet": 40.4
+  },
+  {
+    "id": "704",
+    "name": "Vietnam",
+    "gdp": 1449,
+    "life": 80.5,
+    "renewable": 71.3,
+    "internet": 59.2
+  },
+  {
+    "id": "408",
+    "name": "North Korea",
+    "gdp": 4826,
+    "life": 59.6,
+    "renewable": 75.5,
+    "internet": 49.9
+  },
+  {
+    "id": "410",
+    "name": "South Korea",
+    "gdp": 14996,
+    "life": 71,
+    "renewable": 82.8,
+    "internet": 50
+  },
+  {
+    "id": "496",
+    "name": "Mongolia",
+    "gdp": 4213,
+    "life": 67.5,
+    "renewable": 2.7,
+    "internet": 52.7
+  },
+  {
+    "id": "356",
+    "name": "India",
+    "gdp": 24456,
+    "life": 71.8,
+    "renewable": 82.9,
+    "internet": 48.3
+  },
+  {
+    "id": "050",
+    "name": "Bangladesh",
+    "gdp": 60588,
+    "life": 55.7,
+    "renewable": 50.8,
+    "internet": 38.7
+  },
+  {
+    "id": "064",
+    "name": "Bhutan",
+    "gdp": 1061,
+    "life": 73.9,
+    "renewable": 3.6,
+    "internet": 39.1
+  },
+  {
+    "id": "524",
+    "name": "Nepal",
+    "gdp": 59372,
+    "life": 72.8,
+    "renewable": 6.3,
+    "internet": 53.6
+  },
+  {
+    "id": "586",
+    "name": "Pakistan",
+    "gdp": 12333,
+    "life": 55.8,
+    "renewable": 35.2,
+    "internet": 55.5
+  },
+  {
+    "id": "004",
+    "name": "Afghanistan",
+    "gdp": 33044,
+    "life": 71.3,
+    "renewable": 80,
+    "internet": 37.2
+  },
+  {
+    "id": "762",
+    "name": "Tajikistan",
+    "gdp": 10005,
+    "life": 71.6,
+    "renewable": 85.7,
+    "internet": 61
+  },
+  {
+    "id": "417",
+    "name": "Kyrgyzstan",
+    "gdp": 1170,
+    "life": 64.6,
+    "renewable": 10.2,
+    "internet": 50.2
+  },
+  {
+    "id": "795",
+    "name": "Turkmenistan",
+    "gdp": 9604,
+    "life": 59,
+    "renewable": 9.4,
+    "internet": 62.1
+  },
+  {
+    "id": "364",
+    "name": "Iran",
+    "gdp": 5157,
+    "life": 55.7,
+    "renewable": 13.9,
+    "internet": 48.5
+  },
+  {
+    "id": "760",
+    "name": "Syria",
+    "gdp": 2739,
+    "life": 60.1,
+    "renewable": 78.4,
+    "internet": 61
+  },
+  {
+    "id": "051",
+    "name": "Armenia",
+    "gdp": 79462,
+    "life": 76.9,
+    "renewable": 54.5,
+    "internet": 38.7
+  },
+  {
+    "id": "752",
+    "name": "Sweden",
+    "gdp": 16677,
+    "life": 76.3,
+    "renewable": 49.4,
+    "internet": 60.7
+  },
+  {
+    "id": "112",
+    "name": "Belarus",
+    "gdp": 12781,
+    "life": 69.7,
+    "renewable": 79.7,
+    "internet": 40.6
+  },
+  {
+    "id": "804",
+    "name": "Ukraine",
+    "gdp": 2544,
+    "life": 64.1,
+    "renewable": 42,
+    "internet": 62.4
+  },
+  {
+    "id": "616",
+    "name": "Poland",
+    "gdp": 1662,
+    "life": 72.6,
+    "renewable": 46.1,
+    "internet": 56.5
+  },
+  {
+    "id": "040",
+    "name": "Austria",
+    "gdp": 79973,
+    "life": 60.4,
+    "renewable": 14.6,
+    "internet": 38.4
+  },
+  {
+    "id": "348",
+    "name": "Hungary",
+    "gdp": 66423,
+    "life": 57,
+    "renewable": 53.9,
+    "internet": 48
+  },
+  {
+    "id": "498",
+    "name": "Moldova",
+    "gdp": 13622,
+    "life": 78.9,
+    "renewable": 10,
+    "internet": 52.8
+  },
+  {
+    "id": "642",
+    "name": "Romania",
+    "gdp": 18647,
+    "life": 66.5,
+    "renewable": 42.4,
+    "internet": 57.3
+  },
+  {
+    "id": "440",
+    "name": "Lithuania",
+    "gdp": 2227,
+    "life": 56.8,
+    "renewable": 93.6,
+    "internet": 50.9
+  },
+  {
+    "id": "428",
+    "name": "Latvia",
+    "gdp": 1155,
+    "life": 81.1,
+    "renewable": 50.1,
+    "internet": 50.6
+  },
+  {
+    "id": "233",
+    "name": "Estonia",
+    "gdp": 11105,
+    "life": 65.1,
+    "renewable": 28.7,
+    "internet": 44.4
+  },
+  {
+    "id": "276",
+    "name": "Germany",
+    "gdp": 5870,
+    "life": 78.8,
+    "renewable": 86.7,
+    "internet": 45.8
+  },
+  {
+    "id": "100",
+    "name": "Bulgaria",
+    "gdp": 7503,
+    "life": 63,
+    "renewable": 36.2,
+    "internet": 40.3
+  },
+  {
+    "id": "300",
+    "name": "Greece",
+    "gdp": 16837,
+    "life": 61.2,
+    "renewable": 75.7,
+    "internet": 46.5
+  },
+  {
+    "id": "792",
+    "name": "Turkey",
+    "gdp": 1276,
+    "life": 57.4,
+    "renewable": 96.5,
+    "internet": 62
+  },
+  {
+    "id": "008",
+    "name": "Albania",
+    "gdp": 900,
+    "life": 63.2,
+    "renewable": 94.5,
+    "internet": 37.4
+  },
+  {
+    "id": "191",
+    "name": "Croatia",
+    "gdp": 28278,
+    "life": 72.6,
+    "renewable": 72.3,
+    "internet": 43.1
+  },
+  {
+    "id": "756",
+    "name": "Switzerland",
+    "gdp": 67874,
+    "life": 68.2,
+    "renewable": 63.9,
+    "internet": 60.9
+  },
+  {
+    "id": "442",
+    "name": "Luxembourg",
+    "gdp": 8570,
+    "life": 68.3,
+    "renewable": 2.9,
+    "internet": 51
+  },
+  {
+    "id": "056",
+    "name": "Belgium",
+    "gdp": 7957,
+    "life": 59.1,
+    "renewable": 72.6,
+    "internet": 38.9
+  },
+  {
+    "id": "528",
+    "name": "Netherlands",
+    "gdp": 1920,
+    "life": 64.7,
+    "renewable": 20.8,
+    "internet": 53.7
+  },
+  {
+    "id": "620",
+    "name": "Portugal",
+    "gdp": 19059,
+    "life": 64.5,
+    "renewable": 60.6,
+    "internet": 56.6
+  },
+  {
+    "id": "724",
+    "name": "Spain",
+    "gdp": 89700,
+    "life": 71,
+    "renewable": 45.8,
+    "internet": 59.8
+  },
+  {
+    "id": "372",
+    "name": "Ireland",
+    "gdp": 904,
+    "life": 70.5,
+    "renewable": 42.9,
+    "internet": 48.8
+  },
+  {
+    "id": "540",
+    "name": "New Caledonia",
+    "gdp": 3930,
+    "life": 71.4,
+    "renewable": 64.4,
+    "internet": 54.1
+  },
+  {
+    "id": "090",
+    "name": "Solomon Is.",
+    "gdp": 13103,
+    "life": 67.7,
+    "renewable": 97.9,
+    "internet": 39.9
+  },
+  {
+    "id": "554",
+    "name": "New Zealand",
+    "gdp": 20327,
+    "life": 58.6,
+    "renewable": 17.1,
+    "internet": 54.5
+  },
+  {
+    "id": "036",
+    "name": "Australia",
+    "gdp": 21839,
+    "life": 68.5,
+    "renewable": 0,
+    "internet": 38.3
+  },
+  {
+    "id": "144",
+    "name": "Sri Lanka",
+    "gdp": 7068,
+    "life": 66.9,
+    "renewable": 97.8,
+    "internet": 41.6
+  },
+  {
+    "id": "156",
+    "name": "China",
+    "gdp": 12154,
+    "life": 73.7,
+    "renewable": 43.4,
+    "internet": 42
+  },
+  {
+    "id": "158",
+    "name": "Taiwan",
+    "gdp": 29085,
+    "life": 54.1,
+    "renewable": 50.6,
+    "internet": 42.1
+  },
+  {
+    "id": "380",
+    "name": "Italy",
+    "gdp": 48512,
+    "life": 54.3,
+    "renewable": 71.9,
+    "internet": 49.1
+  },
+  {
+    "id": "208",
+    "name": "Denmark",
+    "gdp": 1573,
+    "life": 61.4,
+    "renewable": 36,
+    "internet": 43.7
+  },
+  {
+    "id": "826",
+    "name": "United Kingdom",
+    "gdp": 2451,
+    "life": 66,
+    "renewable": 23.9,
+    "internet": 63.1
+  },
+  {
+    "id": "352",
+    "name": "Iceland",
+    "gdp": 2584,
+    "life": 79.9,
+    "renewable": 68.4,
+    "internet": 48.2
+  },
+  {
+    "id": "031",
+    "name": "Azerbaijan",
+    "gdp": 1097,
+    "life": 55.4,
+    "renewable": 79.9,
+    "internet": 38.1
+  },
+  {
+    "id": "268",
+    "name": "Georgia",
+    "gdp": 26450,
+    "life": 64,
+    "renewable": 57.6,
+    "internet": 45.5
+  },
+  {
+    "id": "608",
+    "name": "Philippines",
+    "gdp": 12024,
+    "life": 57.8,
+    "renewable": 17,
+    "internet": 56.2
+  },
+  {
+    "id": "458",
+    "name": "Malaysia",
+    "gdp": 61958,
+    "life": 66.9,
+    "renewable": 60.9,
+    "internet": 51.5
+  },
+  {
+    "id": "096",
+    "name": "Brunei",
+    "gdp": 99262,
+    "life": 71.1,
+    "renewable": 21.7,
+    "internet": 40.1
+  },
+  {
+    "id": "705",
+    "name": "Slovenia",
+    "gdp": 3003,
+    "life": 70.7,
+    "renewable": 74.9,
+    "internet": 59.3
+  },
+  {
+    "id": "246",
+    "name": "Finland",
+    "gdp": 26965,
+    "life": 62,
+    "renewable": 75.8,
+    "internet": 44.8
+  },
+  {
+    "id": "703",
+    "name": "Slovakia",
+    "gdp": 929,
+    "life": 59.3,
+    "renewable": 67.7,
+    "internet": 59.2
+  },
+  {
+    "id": "203",
+    "name": "Czechia",
+    "gdp": 39979,
+    "life": 79.3,
+    "renewable": 17.9,
+    "internet": 43.5
+  },
+  {
+    "id": "232",
+    "name": "Eritrea",
+    "gdp": 6251,
+    "life": 74.8,
+    "renewable": 25.1,
+    "internet": 44.4
+  },
+  {
+    "id": "392",
+    "name": "Japan",
+    "gdp": 64613,
+    "life": 61,
+    "renewable": 17.5,
+    "internet": 49.4
+  },
+  {
+    "id": "600",
+    "name": "Paraguay",
+    "gdp": 41375,
+    "life": 74,
+    "renewable": 86,
+    "internet": 56
+  },
+  {
+    "id": "887",
+    "name": "Yemen",
+    "gdp": 46354,
+    "life": 58.8,
+    "renewable": 49.1,
+    "internet": 65
+  },
+  {
+    "id": "682",
+    "name": "Saudi Arabia",
+    "gdp": 1498,
+    "life": 78.5,
+    "renewable": 89.5,
+    "internet": 58.5
+  },
+  {
+    "id": "010",
+    "name": "Antarctica",
+    "gdp": null,
+    "life": null,
+    "renewable": null,
+    "internet": null
+  },
+  {
+    "id": "local-n-cyprus",
+    "name": "N. Cyprus",
+    "gdp": 50087,
+    "life": 80,
+    "renewable": 42.1,
+    "internet": 61.5
+  },
+  {
+    "id": "196",
+    "name": "Cyprus",
+    "gdp": 958,
+    "life": 54.7,
+    "renewable": 90.5,
+    "internet": 43.3
+  },
+  {
+    "id": "504",
+    "name": "Morocco",
+    "gdp": 101123,
+    "life": 82.3,
+    "renewable": 31.8,
+    "internet": 52.9
+  },
+  {
+    "id": "818",
+    "name": "Egypt",
+    "gdp": 15563,
+    "life": 82.2,
+    "renewable": 92.8,
+    "internet": 62.8
+  },
+  {
+    "id": "434",
+    "name": "Libya",
+    "gdp": 33387,
+    "life": 84.5,
+    "renewable": 71.8,
+    "internet": 50.7
+  },
+  {
+    "id": "231",
+    "name": "Ethiopia",
+    "gdp": 3163,
+    "life": 84.6,
+    "renewable": 21.4,
+    "internet": 44.4
+  },
+  {
+    "id": "262",
+    "name": "Djibouti",
+    "gdp": 928,
+    "life": 60.6,
+    "renewable": 35.9,
+    "internet": 45.3
+  },
+  {
+    "id": "local-somaliland",
+    "name": "Somaliland",
+    "gdp": 50087,
+    "life": 80,
+    "renewable": 42.1,
+    "internet": 61.5
+  },
+  {
+    "id": "800",
+    "name": "Uganda",
+    "gdp": 66040,
+    "life": 72.2,
+    "renewable": 27.5,
+    "internet": 62.2
+  },
+  {
+    "id": "646",
+    "name": "Rwanda",
+    "gdp": 72596,
+    "life": 58.4,
+    "renewable": 56.9,
+    "internet": 57.4
+  },
+  {
+    "id": "070",
+    "name": "Bosnia and Herz.",
+    "gdp": 31308,
+    "life": 77.2,
+    "renewable": 25.4,
+    "internet": 39.3
+  },
+  {
+    "id": "807",
+    "name": "Macedonia",
+    "gdp": 15745,
+    "life": 65.8,
+    "renewable": 52.9,
+    "internet": 62.5
+  },
+  {
+    "id": "688",
+    "name": "Serbia",
+    "gdp": 38717,
+    "life": 81.9,
+    "renewable": 13.2,
+    "internet": 58.7
+  },
+  {
+    "id": "499",
+    "name": "Montenegro",
+    "gdp": 21425,
+    "life": 69.2,
+    "renewable": 13.6,
+    "internet": 52.8
+  },
+  {
+    "id": "local-kosovo",
+    "name": "Kosovo",
+    "gdp": 50087,
+    "life": 80,
+    "renewable": 42.1,
+    "internet": 61.5
+  },
+  {
+    "id": "780",
+    "name": "Trinidad and Tobago",
+    "gdp": 909,
+    "life": 81.7,
+    "renewable": 53,
+    "internet": 61.6
+  },
+  {
+    "id": "728",
+    "name": "S. Sudan",
+    "gdp": 5792,
+    "life": 62.9,
+    "renewable": 60.3,
+    "internet": 60
+  }
+]
